@@ -12,7 +12,9 @@ Secondly, staffing of the centers is also one area wherein accurate demand forec
 We have the below information with us in the form of 3 different datasets:
 
 Historical data of demand for a product-canter combination
+
 Product (Meal) features such as category, sub-category, current price, and discount
+
 Information for fulfillment centers like center area, city information, etc.
 
 Our report/dashboard should answer the following questions posed by the sales director of the client:
